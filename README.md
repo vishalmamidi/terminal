@@ -43,10 +43,6 @@ plugins=(
     git
     sudo
     web-search
-    copyfile
-    dirhistory
-    history
-    jsontools
     zsh-autosuggestions
     zsh-syntax-highlighting
     you-should-use
