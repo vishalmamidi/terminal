@@ -1,4 +1,4 @@
-# Here is my terminal setup. 
+# Here is my terminal setup.  
 I use Linux primarily and which comes to Terminal I prefer one which comes with VS code or Intellij. In cases where I am not using any IDE or editor 
 i usaully switch between alacritty 
 
