@@ -57,6 +57,10 @@ plugins=(
 . ~/.zshrc
 ```
 
+### Theames
+
+https://github.com/reobin/typewritten
+
 
 commands
 
