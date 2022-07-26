@@ -61,6 +61,9 @@ plugins=(
 
 https://github.com/reobin/typewritten
 
+### fonts
+
+https://github.com/ryanoasis/nerd-fonts
 
 commands
 
