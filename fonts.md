@@ -1,5 +1,13 @@
+# Getting Started
 
-## list all my fonts
+```
+mkdir -p ~/.local/share/fonts
+cd ~/.local/share/fonts && wget https://github.com/vishalmamidi/terminal/raw/main/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf
+fc-cache
+```
+
+
+## few commands 
 ```
 fc-list
 ```
@@ -21,7 +29,5 @@ fc-cache
 ```
 mkdir /home/vishal/.local/share/fonts
 ```
-```
-mkdir ~/.local/share/fonts
-```
+
 
