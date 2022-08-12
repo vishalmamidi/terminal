@@ -14,3 +14,14 @@ lf
 ```
 fc-cache
 ```
+
+
+## setup fonts 
+
+```
+mkdir /home/vishal/.local/share/fonts
+```
+```
+mkdir ~/.local/share/fonts
+```
+
