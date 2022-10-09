@@ -1,0 +1,18 @@
+#kubectl
+export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
+
+
+#paths
+PATH=/home/vishal/.local/bin:$PATH
+PATH=/home/linuxbrew/.linuxbrew/bin:$PATH
+PATH=/usr/lib/jvm/graalvm-ce-java17/bin:$PATH
+JAVA_HOME=/usr/lib/jvm/graalvm-ce-java17
+GRAALVM_HOME=/usr/lib/jvm/graalvm-ce-java17
+
+#aliases
+alias k=kubectl
+alias ll='ls -alF'
+
+#TYPEWRITTEN
+export TYPEWRITTEN_SYMBOL="❯"
+export TYPEWRITTEN_DISABLE_RETURN_CODE="true"
