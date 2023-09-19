@@ -67,6 +67,9 @@ https://github.com/ryanoasis/nerd-fonts
 
 commands
 
+https://github.com/withfig/autocomplete
+
+
 - Ctrl+L clear command 
 - Ctrl+A go to begining
 - Ctrl+E end of line
